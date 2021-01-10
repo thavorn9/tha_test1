@@ -1,0 +1,2 @@
+rootProject.name='tha_test'
+include ':app'
